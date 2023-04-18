@@ -20,9 +20,7 @@ Console.WriteLine("Enter z2: ");
 int z2 = int.Parse(Console.ReadLine());
 
 
-int X = x2 - x1;
-int Y = y2 - y1;
-int Z = z2 - z1;
+int sum = (x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1) + (z2 - z1) * (z2 - z1); 
 
-double length = X * X + Y * Y + Z * Z;
+double length = Math.Sqrt(sum);
 Console.WriteLine("Length is " + length);
