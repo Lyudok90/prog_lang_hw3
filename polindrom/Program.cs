@@ -15,10 +15,10 @@ if(number > 9999 && number < 100000)
             temp /= 10;
         }
     if(number == pol)
-    Console.Write("Your number is polindrom ");
+    Console.WriteLine("Your number is polindrom ");
     else
-    Console.Write("Your number is not polindrom");
+    Console.WriteLine("Your number is not polindrom");
 } 
 
 else
-Console.Write("Enter a five-digit number: ");
+Console.WriteLine("Enter a five-digit number: ");
