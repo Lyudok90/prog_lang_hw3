@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "table_of_cubs/1.0.0": {
+        "runtime": {
+          "table_of_cubs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "table_of_cubs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

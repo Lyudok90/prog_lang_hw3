@@ -1,0 +1,15 @@
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\bin\Debug\net6.0\table_of_cubs.exe
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\bin\Debug\net6.0\table_of_cubs.deps.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\bin\Debug\net6.0\table_of_cubs.runtimeconfig.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\bin\Debug\net6.0\table_of_cubs.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\bin\Debug\net6.0\table_of_cubs.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\obj\Debug\net6.0\table_of_cubs.csproj.AssemblyReference.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\obj\Debug\net6.0\table_of_cubs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\obj\Debug\net6.0\table_of_cubs.AssemblyInfoInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\obj\Debug\net6.0\table_of_cubs.AssemblyInfo.cs
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\obj\Debug\net6.0\table_of_cubs.csproj.CoreCompileInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\obj\Debug\net6.0\table_of_cubs.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\obj\Debug\net6.0\refint\table_of_cubs.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\obj\Debug\net6.0\table_of_cubs.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\obj\Debug\net6.0\table_of_cubs.genruntimeconfig.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\table_of_cubs\obj\Debug\net6.0\ref\table_of_cubs.dll
