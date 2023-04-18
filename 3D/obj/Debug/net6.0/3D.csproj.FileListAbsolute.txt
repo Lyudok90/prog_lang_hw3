@@ -1,0 +1,15 @@
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\obj\Debug\net6.0\3D.csproj.AssemblyReference.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\obj\Debug\net6.0\3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\obj\Debug\net6.0\3D.AssemblyInfoInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\obj\Debug\net6.0\3D.AssemblyInfo.cs
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\obj\Debug\net6.0\3D.csproj.CoreCompileInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\bin\Debug\net6.0\3D.exe
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\bin\Debug\net6.0\3D.deps.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\bin\Debug\net6.0\3D.runtimeconfig.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\bin\Debug\net6.0\3D.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\bin\Debug\net6.0\3D.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\obj\Debug\net6.0\3D.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\obj\Debug\net6.0\refint\3D.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\obj\Debug\net6.0\3D.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\obj\Debug\net6.0\3D.genruntimeconfig.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\3D\obj\Debug\net6.0\ref\3D.dll
