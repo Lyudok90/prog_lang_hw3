@@ -1,0 +1,15 @@
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\obj\Debug\net6.0\polindrom.csproj.AssemblyReference.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\obj\Debug\net6.0\polindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\obj\Debug\net6.0\polindrom.AssemblyInfoInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\obj\Debug\net6.0\polindrom.AssemblyInfo.cs
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\obj\Debug\net6.0\polindrom.csproj.CoreCompileInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\bin\Debug\net6.0\polindrom.exe
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\bin\Debug\net6.0\polindrom.deps.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\bin\Debug\net6.0\polindrom.runtimeconfig.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\bin\Debug\net6.0\polindrom.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\bin\Debug\net6.0\polindrom.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\obj\Debug\net6.0\polindrom.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\obj\Debug\net6.0\refint\polindrom.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\obj\Debug\net6.0\polindrom.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\obj\Debug\net6.0\polindrom.genruntimeconfig.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework3\polindrom\obj\Debug\net6.0\ref\polindrom.dll
